@@ -23,6 +23,3 @@ Generates:
 - Customer risk analysis
 - CSV output file
 
-## ▶ How to Run
-```bash
-python main.py
