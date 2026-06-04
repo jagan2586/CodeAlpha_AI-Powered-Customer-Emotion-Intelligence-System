@@ -1,0 +1,2401 @@
+text,sentiment,emotion,score,churn
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
+I love this product,Positive,Joy,100,Low Risk
+This is amazing,Positive,Neutral,100,Low Risk
+Worst experience ever,Negative,Anger,10,High Risk
+Very bad quality,Negative,Anger,10,High Risk
+I am happy with service,Positive,Joy,100,Low Risk
+Totally disappointed,Negative,Sadness,10,High Risk
+Excellent product,Positive,Neutral,100,Low Risk
+Not good at all,Negative,Neutral,10,High Risk
+Great experience,Positive,Joy,100,Low Risk
+I want refund,Negative,Sadness,10,High Risk
+Very satisfied customer,Positive,Neutral,100,Low Risk
+Terrible service,Negative,Anger,10,High Risk
